@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    >
+
+    <item
+        android:title="Camera/Video"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_movie_creation_black_24dp"
+        app:showAsAction="collapseActionView"
+        android:id="@+id/camVid"
+        android:visible="true"
+
+        />
+    <item
+        android:title="search"
+        android:id="@+id/search"
+        android:icon="@drawable/ic_search_black_24dp"
+        app:showAsAction="collapseActionView"
+        android:visible="false"/>
+    <item
+        android:title="Call"
+        android:id="@+id/call"
+        android:icon="@drawable/ic_call_black_24dp"
+        app:showAsAction="collapseActionView"
+        android:visible="true"/>
+    <item
+        android:title="SMS"
+        android:id="@+id/sms"
+        android:icon="@drawable/ic_textsms_black_24dp"
+        app:showAsAction="collapseActionView"
+        android:visible="true"/>
+
+    <item
+        android:title="Settings"
+        android:id="@+id/setting"
+        app:showAsAction="collapseActionView"
+        android:visible="true"
+        />
+
+  </menu>

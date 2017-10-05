@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Thusang</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Stop Crime!</string>
+    <string name="slide_1_desc">Start a  crime free neighbourhood !</string>
+    <string name="slide_2_title">Fight crime</string>
+    <string name="slide_2_desc">Notify thr neighbours about suspecios activity in the neighbourhood!
+    </string>
+    <string name="slide_3_title">Emergency in your hand</string>
+    <string name="slide_3_desc">With just a touch Alert neighbours and police without alarming
+        the suspect!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps ->
+        welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="allClearButtonText">I am Safe and Well</string>
+    <string name="HELPME">Help Me! Somebody help! </string>
+    <string name="autorespond">Setup Auto Responder</string>
+    <string name="allClearText">I am safe and well. Worry not!
+    </string>
+    <string name="HangInThereWeComing">are you OK?</string>
+    <string name="policeAreNotified">These people want to know if you\’re ok</string>
+    <string name="includeLocation">Include Location in Reply</string>
+
+
+    <string name="respondWithPrompt">Respond with</string>
+    <string name="transmitLocationPrompt">Transmit location</string>
+    <string name="autoRespondDurationPrompt">Auto respond for</string>
+    <string name="enableButtonText">Enable</string>
+    <string name="disableButtonText">Disable</string>
+</resources>

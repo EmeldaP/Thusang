@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "478661457279",
+    "firebase_url": "https://thusang-f9935.firebaseio.com",
+    "project_id": "thusang-f9935",
+    "storage_bucket": "thusang-f9935.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478661457279:android:1958a752f4c10476",
+        "android_client_info": {
+          "package_name": "com.example.codetribe.thusang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478661457279-049bvimp6foofcva40cfmijialpk7u9b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.codetribe.thusang",
+            "certificate_hash": "3de426d523f04b0dbbafe71c40c1b17f495ebe80"
+          }
+        },
+        {
+          "client_id": "478661457279-c99msip3c6e9if3mmb08ahkn6vdd7vuc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYQW-M8tXRVT1wSjZ8XyJOo4MGD9Vx-i4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478661457279-c99msip3c6e9if3mmb08ahkn6vdd7vuc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
